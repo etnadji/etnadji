@@ -8,7 +8,7 @@ En français : *En réponse à l’acquisition de Github par Microsoft, mes dép
 
 ### What I do
 
-Electronic publishing and free (libre) softwares.
+Code, words and books : Electronic publishing and free (libre) softwares.
 
 ### Moved repositories
 
