@@ -1,16 +1,33 @@
-### Hi there 👋
+### Étienne Nadji (non-professionnal account) 🐳
 
-<!--
-**etnadji/etnadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you are looking for works related to Unistra, see @enadji, my professionnal profile and [the Unistra Gitlab instance](https://git.unistra.fr).
 
-Here are some ideas to get you started:
+*In response to Microsoft's acquisition of Github, most of my repositories are now available on other platforms, like [Framagit](https://framagit.org/etnadji). You will only find on that Github profile contributions and forks of other projects. By the way, [Microsoft stinks](https://itvision.altervista.org/why-windows-10-sucks.html).*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En français : *En réponse à l’acquisition de Github par Microsoft, mes dépôts sont disponibles sur d’autres plateformes, comme [Framagit](https://framagit.org/etnadji). Sur ce profil, vous trouverez uniquement des contributions ou des* forks *d’autres projets. Au fait, [Microsoft pue](http://sebsauvage.net/wiki/doku.php?id=microsoft).*
+
+### What I do
+
+Electronic publishing and free (libre) softwares.
+
+### Moved repositories
+
+- [PyScribus](https://framagit.org/etnadji/pyscribus)
+
+   Read, create and update Scribus .sla files with Python.
+
+- [evxp](https://framagit.org/etnadji/evxp)
+
+    My own XML plugin for Vim.
+
+- [internet-cultural-programs](https://framagit.org/etnadji/internet-cultural-programs)
+
+    A giant list of serious / cultural shows on the Internet.
+
+- [Shoebird](https://framagit.org/etnadji/shoebird)
+
+    A links aggregator static website generator inspired by Shaarli.
+
+- [LibreDeck](https://framagit.org/etnadji/libredeck)
+
+   Streamboard for GNOME.
