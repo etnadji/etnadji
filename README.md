@@ -28,10 +28,6 @@ If you are looking for a *curriculum vitae*, there is one [for the Web](https://
 
     A giant list of serious / cultural shows on the Internet.
 
-- [Shoebird](https://framagit.org/etnadji/shoebird)
-
-    A links aggregator static website generator inspired by Shaarli.
-
 #### Not maintained
 
 - [evxp](https://framagit.org/etnadji/evxp)
